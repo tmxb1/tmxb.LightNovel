@@ -2,9 +2,9 @@
 
 ## 地址
 
-项目演示视频地址：		
+项目演示视频地址：	https://www.bilibili.com/video/BV1RRH1zZEqq/?share_source=copy_web&vd_source=3ae66984470f4b5defde0ed36ef284d8	
 
-项目地址：	
+项目地址：https://github.com/tmxb1/tmxb.LightNovel
 
 ## 项目概述
 
@@ -12,6 +12,35 @@
 
 ## 截图
 
+<img width="463" height="994" alt="阅读" src="https://github.com/user-attachments/assets/9ceeb4eb-09c8-4ad3-a326-bfcd075522fb" />
+
+
+阅读
+
+<img width="453" height="998" alt="目录" src="https://github.com/user-attachments/assets/44c2c2b8-e8c3-404d-9762-243b172521a1" />
+
+
+目录
+
+<img width="462" height="995" alt="详细" src="https://github.com/user-attachments/assets/296660f9-4c79-43ea-8665-c5cf049bf1f4" />
+
+
+详细
+
+<img width="463" height="998" alt="分类" src="https://github.com/user-attachments/assets/373ca455-a0a8-4799-b8e9-72f16227dcd3" />
+
+
+分类
+
+<img width="466" height="985" alt="首页" src="https://github.com/user-attachments/assets/a9e72e22-08b7-4ce8-a5d9-35d5dd0f01ed" />
+
+
+首页
+
+<img width="467" height="996" alt="书架" src="https://github.com/user-attachments/assets/f15c07fd-fadc-456c-a848-283e83deee04" />
+
+
+书架
 
 
 ## 核心开发改动
