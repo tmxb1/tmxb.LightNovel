@@ -2,7 +2,7 @@
 
 ## 地址
 
-项目演示视频地址：	https://www.bilibili.com/video/BV1RRH1zZEqq/?share_source=copy_web&vd_source=3ae66984470f4b5defde0ed36ef284d8	
+项目演示视频地址：	https://www.bilibili.com/video/BV1RRH1zZEqq/
 
 项目地址：https://github.com/tmxb1/tmxb.LightNovel
 
