@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "rollup-plugin-visualizer": "^6.0.3",
+    "sass": "^1.63.2",
+    "sass-loader": "^10.4.1"
+  },
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.5.11",
+    "axios": "^1.11.0",
+    "clipboard": "^2.0.11",
+    "crypto-js": "^4.2.0",
+    "dayjs": "^1.11.13"
+  }
+}
